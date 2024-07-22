@@ -1,8 +1,8 @@
-import useNav from '../../hooks/useNav';
-import MenuMobile from './MenuMobile';
-import data from '../../data.json';
-import { BsJustify, BsXLg } from 'react-icons/bs';
-import { Link } from 'react-scroll';
+import useNav from "../../hooks/useNav";
+import MenuMobile from "./MenuMobile";
+import data from "../../data.json";
+import { BsJustify, BsXLg } from "react-icons/bs";
+import { Link } from "react-scroll";
 
 const Navbar = () => {
   const { isOpen, handleIsOpen } = useNav();
@@ -15,7 +15,7 @@ const Navbar = () => {
         <a href="/">
           <div className="flex items-center gap-2">
             <img
-              src={data['logo-white'].url}
+              src={data["logo-white"].url}
               alt={data.logo.alt}
               className="w-[200px] md:w-[200px] sm:hidden md:block cursor-pointer mr-2 hover:animate-rotate-x hover:animate-duration-[1500ms]"
             />
@@ -29,7 +29,7 @@ const Navbar = () => {
           </div>
         </a>
         <div className="hidden sm:flex items-center justify-between space-x-6 sm:space-x-3 md:space-x-6">
-          {data['section-header'].navbar.map((item, index) => (
+          {data["section-header"].navbar.map((item, index) => (
             <Link
               to={item.href}
               spy={false}
@@ -48,21 +48,22 @@ const Navbar = () => {
             </Link>
           ))}
           <a
-            href={data['section-header'].blog.href}
-            key={data['section-header'].blog.id}
+            href={data["section-header"].blog.href}
+            key={data["section-header"].blog.id}
             target="_blank"
             className=" cursor-pointer"
           >
             <p className="text-md font-[600] hover:text-green-custom sm:text-[12px] lg:text-[16px] w-max">
-              {data['section-header'].blog.text}
+              {data["section-header"].blog.text}
             </p>
           </a>
           <a
-            href={`mailto:${data.contact.email}?subject=Contact`}
+            href={`${data["section-header"].contact.href}`}
+            target="blank_"
             className=" cursor-pointer"
           >
             <p className="text-md text-md font-[600] hover:text-green-custom sm:text-[12px] lg:text-[16px] w-max">
-              {data['section-header'].contact.text}
+              {data["section-header"].contact.text}
             </p>
           </a>
         </div>

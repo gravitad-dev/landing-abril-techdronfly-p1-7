@@ -3,51 +3,44 @@
     "navbar": [
       {
         "id": 1,
-        "text": "Home",
+        "text": "Inicio",
         "href": "home",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714114243/drone_landing/mobile-icons/home-icon.png",
         "alt": "icon home"
       },
       {
         "id": 2,
-        "text": "Products",
+        "text": "Productos",
         "href": "products",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714063165/drone_landing/mobile-icons/products.png",
         "alt": "icon products"
       },
       {
         "id": 3,
-        "text": "Explore",
+        "text": "Explorar",
         "href": "explore",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714114244/drone_landing/mobile-icons/explore-icon.png",
         "alt": "icon why"
       },
       {
         "id": 6,
-        "text": "Project",
+        "text": "Proyecto",
         "href": "project",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714114846/drone_landing/mobile-icons/projects.png",
         "alt": "icon project"
       },
       {
         "id": 4,
-        "text": "Future",
+        "text": "Futuro",
         "href": "future",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714059955/drone_landing/mobile-icons/future.png",
         "alt": "icon future"
-      },
-      {
-        "id": 5,
-        "text": "Accessories",
-        "href": "accessories",
-        "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714114243/drone_landing/mobile-icons/accesories-icon.png",
-        "alt": "icon accessories"
       }
     ],
     "contact": {
       "id": 7,
-      "text": "Contact Us",
-      "href": "contact",
+      "text": "Contacto",
+      "href": "https://techdronfly.blog.sistemasvirtuales.net/contacto/",
       "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714059955/drone_landing/mobile-icons/contac-us.png",
       "alt": "icon contact"
     },
@@ -61,8 +54,8 @@
     "button": {}
   },
   "section-hero": {
-    "title": "Welcome to Techdronfly: Leaders in Innovation for Drone Autonomy",
-    "subtitle": "At Techdronfly, we are passionately dedicated to the design and development of cutting-edge technological systems that enhance drone autonomy. With a focus on excellence and innovation, we are committed to creating solutions that transform industries and safeguard the environment.",
+    "title": "Bienvenido a Techdronfly: Líderes en innovación para la autonomía de los drones",
+    "subtitle": "En Techdronfly nos dedicamos apasionadamente al diseño y desarrollo de sistemas tecnológicos de vanguardia que mejoran la autonomía de los drones. Con un enfoque en la excelencia y la innovación, estamos comprometidos a crear soluciones que transformen las industrias y protejan el medio ambiente.",
     "stamp": "Unlock the Skies",
     "bg": {
       "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714064507/drone_landing/backgrounds/bg-hero.png",
@@ -75,27 +68,27 @@
       "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714075602/drone_landing/products/card1.png",
       "alt": "card1 image",
       "epigraph": "Mission",
-      "title": "Mission",
-      "paragraph": "Our mission is to promote the evolution of the aeronautical industry through the development of advanced technological platforms that enhance the autonomy of drones. We are committed to creating agile and optimal solutions that contribute to the detection and efficient management of forest fires, using Artificial Intelligence and Big Data as key tools.",
-      "button": "Learn More"
+      "title": "Misión",
+      "paragraph": "Nuestra misión es impulsar la evolución de la industria aeronáutica mediante el desarrollo de plataformas tecnológicas avanzadas que mejoren la autonomía de los drones. Apostamos por crear soluciones ágiles y óptimas que contribuyan a la detección y gestión eficiente de los incendios forestales, utilizando la Inteligencia Artificial y el Big Data como herramientas clave.",
+      "button": "Leer más"
     },
     {
       "id": 2,
       "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714071478/drone_landing/products/card2.png",
       "alt": "card2 image",
       "epigraph": "Vision",
-      "title": "Vision",
-      "paragraph": "We imagine ourselves as undisputed leaders in the field of drone autonomy, where our innovations not only optimize operations, but also protect lives and ecosystems. We offer excellence, quality and aspire to be globally recognized for our advanced technology and our positive impact on society and the environment. We are AeroAutonomy, unlocking the sky",
-      "button": "Learn More"
+      "title": "Visión",
+      "paragraph": "Somos líderes indiscutibles en el campo de la autonomía de los drones, donde nuestras innovaciones no solo optimizan las operaciones, sino que también protegen vidas y ecosistemas. Aspiramos a ser reconocidos globalmente por nuestra excelencia tecnológica y nuestro impacto positivo en la sociedad y el medio ambiente.",
+      "button": "Leer más"
     },
     {
       "id": 3,
       "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714071478/drone_landing/products/card3.png",
       "alt": "card3 image",
       "epigraph": "That makes us different",
-      "title": "That makes us different",
-      "paragraph": "What sets us apart is our relentless dedication to excellence and innovation. Our customer-centric approach drives us to develop customized solutions that address the specific needs of each project. Furthermore, our ability to integrate advanced technologies such as Artificial Intelligence and Big Data allows us to offer cutting-edge solutions that make a difference.",
-      "button": "Learn More"
+      "title": "Eso nos hace diferentes",
+      "paragraph": "Lo que nos distingue es nuestra incesante dedicación a la excelencia y la innovación. Nuestro enfoque centrado en el cliente nos impulsa a desarrollar soluciones personalizadas que aborden las necesidades específicas de cada proyecto. Además, nuestra capacidad de integrar tecnologías avanzadas como la Inteligencia Artificial y el Big Data nos permite ofrecer soluciones punteras que marcan la diferencia.",
+      "button": "Leer más"
     }
   ],
   "section-explore": {
@@ -105,16 +98,16 @@
     },
     "column1": [
       {
-        "title": "30 ms",
-        "subtitle": "Lowest Video Transmission Latency [12]"
+        "title": "",
+        "subtitle": ""
       },
-      { "title": "H.265", "subtitle": "Video Transmission Coding" },
-      { "title": "100 fps", "subtitle": "Max Video Transmission Frame Rate" }
+      { "title": "", "subtitle": "" },
+      { "title": "", "subtitle": "" }
     ],
     "column2": [
-      { "title": "50 Mbps", "subtitle": "Max Video Transmission Bitrate [14]" },
-      { "title": "10 km", "subtitle": "Max Video Transmission Range [13]" },
-      { "title": "H.265", "subtitle": "Video Transmission Coding" }
+      { "title": "", "subtitle": "" },
+      { "title": "", "subtitle": "" },
+      { "title": "", "subtitle": "" }
     ]
   },
   "section-overview": {
@@ -125,49 +118,49 @@
   },
   "section-project": {
     "title": "Techdronfly",
-    "paragraph": "If you share our passion for innovation and positive impact, we invite you to join us on our journey towards a safer, more sustainable future. Together, we can make the impossible possible and transform the way we confront the most pressing environmental challenges of our time.",
+    "paragraph": "Si comparte nuestra pasión por la innovación y el impacto positivo, lo invitamos a unirse a nosotros en nuestro viaje hacia un futuro más seguro y sostenible. Juntos, podemos hacer posible lo imposible y transformar la forma en que enfrentamos los desafíos ambientales más apremiantes de nuestro tiempo.",
     "products": [
       {
         "imageUrl": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714089377/drone_landing/project/ui3ztqn8ow73y7so6ux1.webp",
         "alt": "Drone Product 1",
         "title": "Beginner Drones",
-        "subtitle": "Commitment to Environmental Sustainability",
-        "description": "Techdronfly stands out for its commitment to environmental sustainability. By providing innovative tools for the detection and management of forest fires, the company actively contributes to the protection of vulnerable ecosystems and the conservation of biodiversity. Its technology helps minimize the environmental impact of forest fires by allowing a faster and more effective response by the competent authorities.",
-        "button": "READ MORE",
+        "subtitle": "Compromiso con la Sostenibilidad Ambiental",
+        "description": "Techdronfly destaca por su compromiso con la sostenibilidad medioambiental. Al proporcionar herramientas innovadoras para la detección y gestión de incendios forestales, la empresa contribuye activamente a la protección de ecosistemas vulnerables y la conservación de la biodiversidad. Su tecnología ayuda a minimizar el impacto ambiental de los incendios forestales permitiendo una respuesta más rápida y eficaz por parte de las autoridades competentes.",
+        "button": "Leer más",
         "button-back": "READ LESS"
       },
       {
         "imageUrl": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714088685/drone_landing/project/2.webp",
         "alt": "Drone Product 2",
         "title": "Professional Quadcopters",
-        "subtitle": "Advanced Technological Innovation",
-        "description": "Techdronfly is distinguished by its commitment to advanced technological innovation. Its team of data science and engineering experts is constantly working to develop cutting-edge solutions that make the most of artificial intelligence and big data analytics. This capacity for innovation allows the company to offer autonomous drone systems that are agile, precise and highly efficient in detecting and signaling forest fires.",
-        "button": "READ MORE",
+        "subtitle": "Innovación Tecnológica Avanzada",
+        "description": "Techdronfly se distingue por su apuesta por la innovación tecnológica avanzada. Su equipo de expertos en ingeniería y ciencia de datos trabaja constantemente para desarrollar soluciones de vanguardia que aprovechen al máximo la inteligencia artificial y el análisis de big data. Esta capacidad de innovación permite a la compañía ofrecer sistemas de drones autónomos ágiles, precisos y altamente eficientes en la detección y señalización de incendios forestales.",
+        "button": "Leer más",
         "button-back": "READ LESS"
       },
       {
         "imageUrl": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714088685/drone_landing/project/3.webp",
         "alt": "Drone Product 3",
         "title": "Mini Drones",
-        "subtitle": "Focus on Drone Autonomy",
-        "description": "Techdronfly' specialization in the design and development of technological systems for drone autonomy is a distinctive feature of the company. Their level of excellence and deep knowledge in this field allows them to offer customized solutions that address specific needs of its clients. Do it with professionalism, from detecting forest fires to monitoring large areas of forest efficiently and reliably.",
-        "button": "READ MORE",
+        "subtitle": "Centrarse en la autonomía de los drones",
+        "description": "La especialización de Techdronfly en el diseño y desarrollo de sistemas tecnológicos para la autonomía de drones es un rasgo distintivo de la empresa. Su profundo conocimiento en este campo les permite ofrecer soluciones personalizadas que abordan las necesidades específicas de sus clientes, desde la detección de incendios forestales hasta el seguimiento de grandes extensiones de bosque de forma eficiente y fiable.",
+        "button": "Leer más",
         "button-back": "READ LESS"
       },
       {
         "imageUrl": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714088685/drone_landing/project/4.webp",
         "alt": "Drone Product 4",
-        "title": "Foldable Drones",
-        "subtitle": "Trust and Reliability",
-        "description": "Trust and reliability are core values of Techdronfly. We are proud to offer high-quality technology solutions that exceed our customers' expectations. Their team of highly trained professionals ensures that each system delivered meets the highest standards of performance and safety. This dedication to excellence has earned the trust of a wide range of customers, including government agencies, environmental conservation organizations and private companies.",
-        "button": "READ MORE",
+        "title": "Compromiso con la Sostenibilidad Ambiental",
+        "subtitle": "Compromiso con la Sostenibilidad Ambiental",
+        "description": "Techdronfly destaca por su compromiso con la sostenibilidad medioambiental. Al proporcionar herramientas innovadoras para la detección y gestión de incendios forestales, la empresa contribuye activamente a la protección de ecosistemas vulnerables y la conservación de la biodiversidad. Su tecnología ayuda a minimizar el impacto ambiental de los incendios forestales permitiendo una respuesta más rápida y eficaz por parte de las autoridades competentes.",
+        "button": "Leer más",
         "button-back": "READ LESS"
       }
     ]
   },
   "section-future": {
-    "title": "A Breakthrough in FPV Visuals",
-    "subtitle": "At Techdronfly, we are driving drone autonomy to new horizons. Join us and be part of the technological revolution that is changing the world for the better.",
+    "title": "Un gran avance en imágenes FPV",
+    "subtitle": "En Techdronfly, estamos llevando la autonomía de los drones a nuevos horizontes. Únase a nosotros y sea parte de la revolución tecnológica que está cambiando el mundo para mejor.",
     "image": {
       "url": "explore.png",
       "alt": "battery image"
@@ -208,7 +201,7 @@
   },
   "section-footer": {
     "trademark": "Techdronfly",
-    "slogan": "Unlock the Skies",
+    "slogan": "Desbloquea los cielos",
     "copy": "All Rights Reserved 2024",
     "design": "Designed by",
     "designer": "Robert Smith",
@@ -235,7 +228,7 @@
   "blog": {
     "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714111452/drone_landing/blog/blog-icon.png",
     "title": "Blog",
-    "text": "Visit our blog!",
+    "text": "¡Visita nuestro blog!",
     "url": "https://techdronfly.blog.sistemasvirtuales.net"
   }
 }
